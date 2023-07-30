@@ -1,0 +1,3 @@
+[submodule "firmware/video-transmission-system"]
+	path = firmware/video-transmission-system
+	url = https://github.com/Theo-Tsang/video-transmission-system.git
